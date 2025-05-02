@@ -34,6 +34,12 @@
 
 ---
 
+### 👀 Visitor Counter
+<p align="center">
+  <img src="https://profile-counter.glitch.me/c-yrodiil/count.svg" alt="visitor count" />
+</p>
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -49,7 +55,11 @@
 </p>
 
 ---
-
+### 🏆 GitHub Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=c-yrodiil&theme=radical&column=3&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+</p>
+--
 ### 🌍 Contribution Heatmap
 
 <p align="center">
@@ -61,4 +71,7 @@
 ### 🤝 Connect with me
 
 - 🧑‍💻 Discord: `c_yrodiil`
-- 🌐 Portfolio: https://www.cyrodiil.dev
+--- 
+
+### 🌍 Visit My Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://www.cyrodiil.dev)
