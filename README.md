@@ -1,77 +1,73 @@
-<h1 align="center">Hey there 👋, I'm c_yrodiil</h1>
+<div align="center">
+  <h1>Hey there 👋, I'm c_yrodiil</h1>
+  <p><em>I make things :)</em></p>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.cyrodiil.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio">
+  </a>
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm a Roblox-focused developer with a passion for building modular systems. I also enjoy creating fully integrated web dashboards and helpful Discord tools.
+
+**Here's what I'm proficient in:**
 
 <p align="center">
-  <em>I make things :)</em><br>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
 ---
 
-### 🧠 About Me
+## 🚧 Current Projects
 
-- 🔧 Roblox-focused developer building modular systems: chassis, insurance, garages, and more
-- 🌐 Creating fully integrated web dashboards and OAuth2 Discord tools
-- 🧰 I am proficent in: **Lua**, **TypeScript**, **Next.js**, **Node.js**, **Discord.js**, **HTML/CSS**
+Here are some of the exciting things I'm currently working on:
 
----
-
-### 🚧 Current Projects
-
-- 🛞 Fully modular **vehicle chassis** system (manual, ABS, fuel, health, drivetrain, etc.)
-- 📊 In-game **stock market**.
-- 🛂 Tamper-proof **whitelist & verification**.
-- 🇺🇳  United Nations
+- **🛞 Modular Vehicle Chassis System:** A comprehensive system covering manual controls, ABS, fuel management, health, drivetrain, and more.
+- **📊 In-Game Stock Market:** Bringing the dynamics of the stock market into the gaming world.
+- **🛂 Tamper-Proof Whitelist & Verification:** Ensuring secure and reliable access control.
+- **🇺🇳 United Nations:** (Intriguing! Could you tell me more about this?)
 
 ---
 
-### 🧰 My Proficenies
+## 📈 GitHub Stats & Streaks
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c-yrodiil&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%">
+  <img src="https://streak-stats.demolab.com?user=c-yrodiil&theme=radical&hide_border=true" alt="GitHub Streak" width="49%">
+</div>
 
 ---
 
-### 👀 Visitor Counter
-<p align="center">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=c-yrodiil&theme=radical&column=3&margin-w=15&margin-h=15" alt="GitHub Trophy">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c-yrodiil&theme=radical&hide_border=true" alt="GitHub Activity Graph">
+</div>
+
+---
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/c-yrodiil/count.svg" alt="visitor count" />
-</p>
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c-yrodiil&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+</div>
 
 ---
 
-### 🔥 GitHub Streaks
+## 🤝 Connect with Me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=c-yrodiil&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-### 🏆 GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=c-yrodiil&theme=radical&column=3&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-</p>
---
-### 🌍 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c-yrodiil&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-### 🤝 Connect with me
-
-- 🧑‍💻 Discord: `c_yrodiil`
---- 
-
-### 🌍 Visit My Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://www.cyrodiil.dev)
+- **Discord:** `c_yrodiil`
