@@ -34,11 +34,8 @@ I'm a Roblox-focused developer with a passion for building modular systems. I al
 
 Here are some of the exciting things I'm currently working on:
 
-- **🛞 Modular Vehicle Chassis System:** A comprehensive system covering manual controls, ABS, fuel management, health, drivetrain, and more.
-- **📊 In-Game Stock Market:** Bringing the dynamics of the stock market into the gaming world.
-- **🛂 Tamper-Proof Whitelist & Verification:** Ensuring secure and reliable access control.
-- **🇺🇳 United Nations:** (Intriguing! Could you tell me more about this?)
-
+- nothing lol
+  
 ---
 
 ## 📈 GitHub Stats & Streaks
