@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hey there 👋, I'm c_yrodiil</h1>
-  <p><em>I make things :)</em></p>
+  <h1>c_yrodiil</h1>
 </div>
 
 ---
@@ -15,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm a Roblox-focused developer with a passion for building modular systems. I also enjoy creating fully integrated web dashboards and helpful Discord tools.
+i do things, sometimes.
 
 **Here's what I'm proficient in:**
 
